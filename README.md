@@ -14,8 +14,9 @@
 
 **📺📽️ Video and Colab**
 - [LangChain Agents - Joining Tools and Chains with Decisions](https://www.youtube.com/watch?v=ziu87EXZVUE)
+- [Relative Colab](https://drp.li/FmrPY) 
 - [Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)](https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1)
-- Colab: https://colab.research.google.com/drive/1FYsa3x3PzziL57EHEIuIqa5rkCAxCbin?usp=sharing
+- [Relative Colab](https://colab.research.google.com/drive/1FYsa3x3PzziL57EHEIuIqa5rkCAxCbin?usp=sharing) 
 - [If you are a beginner of LangChain, you can watch this video.LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs)
 
 
