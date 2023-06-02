@@ -12,7 +12,7 @@
 
 ⚡ Repository focus on course and application for agent of Langchain. ⚡
 
-**📺📽️ Video**
+**📺📽️ Video and Colab**
 - LangChain Agents - Joining Tools and Chains with Decisions
 - https://www.youtube.com/watch?v=ziu87EXZVUE
 - Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)(In this video I look at how you can make your own custom tools to do a variety of tasks and how you can use the ChatGPT (gpt-3.5-turbo) API to do it.)
