@@ -1,13 +1,3 @@
-# 😊🔗 LangChain-agent （Courses and Applications）
-
-⚡ Repository focus on course and application for agent of Langchain. ⚡
-**Video**
-- LangChain Agents - Joining Tools and Chains with Decisions
-- https://www.youtube.com/watch?v=ziu87EXZVUE
-- Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)(In this video I look at how you can make your own custom tools to do a variety of tasks and how you can use the ChatGPT (gpt-3.5-turbo) API to do it.)
-- https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1
-- If you are a beginner of LangChain, you can watch this video.LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners
-- https://www.youtube.com/watch?v=aywZrzNaKjs
 [![lint](https://github.com/hwchase17/langchain/actions/workflows/lint.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/lint.yml)
 [![test](https://github.com/hwchase17/langchain/actions/workflows/test.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/test.yml)
 [![linkcheck](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml)
@@ -18,8 +8,20 @@
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/hwchase17/langchain)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/hwchase17/langchain)
 [![GitHub star chart](https://img.shields.io/github/stars/hwchase17/langchain?style=social)](https://star-history.com/#hwchase17/langchain)
-**Documentation**
-https://python.langchain.com/en/latest/modules/agents.html
+# 😊🔗 LangChain-agent （Courses and Applications）
+
+⚡ Repository focus on course and application for agent of Langchain. ⚡
+**Video**
+- LangChain Agents - Joining Tools and Chains with Decisions
+- https://www.youtube.com/watch?v=ziu87EXZVUE
+- Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)(In this video I look at how you can make your own custom tools to do a variety of tasks and how you can use the ChatGPT (gpt-3.5-turbo) API to do it.)
+- https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1
+- If you are a beginner of LangChain, you can watch this video.LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners
+- https://www.youtube.com/watch?v=aywZrzNaKjs
+
+**🤖 Agents**
+- [Documentation](https://langchain.readthedocs.io/en/latest/modules/agents.html)
+- End-to-end Example: [GPT+WolframAlpha](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
 Looking for the JS/TS version? Check out [LangChain.js](https://github.com/hwchase17/langchainjs).
 
