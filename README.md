@@ -6,7 +6,8 @@
 - https://www.youtube.com/watch?v=ziu87EXZVUE
 - Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)(In this video I look at how you can make your own custom tools to do a variety of tasks and how you can use the ChatGPT (gpt-3.5-turbo) API to do it.)
 - https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1
-- 
+- If you are a beginner of LangChain, you can watch this video.LangChain Explained in 13 Minutes | QuickStart Tutorial for Beginners
+- https://www.youtube.com/watch?v=aywZrzNaKjs
 [![lint](https://github.com/hwchase17/langchain/actions/workflows/lint.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/lint.yml)
 [![test](https://github.com/hwchase17/langchain/actions/workflows/test.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/test.yml)
 [![linkcheck](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml)
