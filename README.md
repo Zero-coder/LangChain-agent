@@ -2,10 +2,10 @@
 
 ⚡ Repository focus on course and application for agent of Langchain. ⚡
 **Video**
-LangChain Agents - Joining Tools and Chains with Decisions
-https://www.youtube.com/watch?v=ziu87EXZVUE
-Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)
-https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1
+- LangChain Agents - Joining Tools and Chains with Decisions
+- https://www.youtube.com/watch?v=ziu87EXZVUE
+- Building Custom Tools and Agents with LangChain (gpt-3.5-turbo)
+- https://www.bilibili.com/video/BV1DM4y1b7Hx/?spm_id_from=333.337.search-card.all.click&vd_source=f1822dbf53f171fdcf40ee09e9f405c1
 [![lint](https://github.com/hwchase17/langchain/actions/workflows/lint.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/lint.yml)
 [![test](https://github.com/hwchase17/langchain/actions/workflows/test.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/test.yml)
 [![linkcheck](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml/badge.svg)](https://github.com/hwchase17/langchain/actions/workflows/linkcheck.yml)
