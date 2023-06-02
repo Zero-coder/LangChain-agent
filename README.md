@@ -37,7 +37,9 @@ or
 
 ## 🤔 What is this?
 
-Large language models (LLMs) are emerging as a transformative technology, enabling developers to build applications that they previously could not. However, using these LLMs in isolation is often insufficient for creating a truly powerful app - the real power comes when you can combine them with other sources of computation or knowledge.
+The role of Agent in LangChain is to help solve feature problems, which include tasks such as numerical operations, web search, and terminal invocation that cannot be handled internally by the language model. To address these issues and facilitate communication with external applications, we introduce the concept of an Agent as a processor. The Agent can be considered a centralized manager responsible for task allocation and scheduling. If you want the large pre-trained language model to help you solve feature problems that involve non-text processing tasks such as numerical operations, web search, and terminal invocation (e.g. opening a terminal to check which folders and files are available), which cannot be handled internally by the language model, Agents are introduced. They act as processors to complete such tasks and act as a hub for integration and task allocation and scheduling.
+
+Agent解决的问题，如果你希望大预言模型来帮助你解决特征问题，这个特征的问题里面包括一些非纯文字处理的问题，比如说数字运算，比如说网页搜索，比如说terminal的调用（我让它打开一个terminal看看哪个文件夹有哪个文件），这些涉及到非语言模型内部能处理的事情。需要和外部的应用做沟通、调用的时候，这个时候我们就引入了agent这样一个概念，让agent做为这样的一个处理者，来完成一些事情，这就是为什么Agent会被引入。可以看成一个管理的hub，一个集成器。给任务做分配，然后做调用。
 
 This library aims to assist in the development of those types of applications. Common examples of these applications include:
 
