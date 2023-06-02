@@ -1,4 +1,4 @@
-# 😊🔗 LangChain-agent 
+# 😊🔗 LangChain-agent （Courses and Applications）
 
 ⚡ Repository focus on course and application for agent of Langchain. ⚡
 **Video**
